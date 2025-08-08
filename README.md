@@ -1,5 +1,7 @@
 # Projeto-POO-2223
 
+> 20/20 :star:
+
 Vintage is a simple console program made for Object Oriented Programming class.
 
 Inpired by the website [Vinted](https://www.vinted.pt/), it allows the user to sell clothes, as well as buy them from other users.
